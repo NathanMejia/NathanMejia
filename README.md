@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
+
 ## GitHub:
+
 <hr>
 
 <p align="center">
