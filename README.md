@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+
+
+<p align="center">
+<a href="https://github.com/NathanMejia/"><img alt="Nathan Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanMejia&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+ 
